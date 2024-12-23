@@ -14,5 +14,12 @@ def function():
     c = a + b
     return c
 
-calculation_result = function()
-print(calculation_result)
+def main():
+    """
+    Main entry point of the script.
+    """
+    calculation_result = function()
+    print(calculation_result)
+
+if __name__ == "__main__":
+    main()
