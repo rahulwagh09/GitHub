@@ -4,4 +4,6 @@ def function():
     b = 3
     return c 
 
+
+
 function()
