@@ -2,7 +2,7 @@ def function():
 
     a = 1
     b = 3
-    return c
+    return c sdsdsd 
 
 
 function()
