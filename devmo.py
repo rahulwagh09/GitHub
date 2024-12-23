@@ -14,5 +14,5 @@ def function():
     c = a + b
     return c
 
-result = function()
-print(result)
+calculation_result = function()
+print(calculation_result)
